@@ -1,0 +1,1 @@
+export {default as highlightsecondmv} from "./hightlight-sec-new.mp4"; // Corrected file name
