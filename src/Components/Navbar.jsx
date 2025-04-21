@@ -1,5 +1,5 @@
 import React from 'react';
-import { appleImg, bagImg, searchImg } from '../../public/assets/images/index';
+import { appleImg, bagImg, searchImg } from '../assets/images';
 
 const navLists = ['Store', 'Mac', 'iPhone', 'Support'];
 
