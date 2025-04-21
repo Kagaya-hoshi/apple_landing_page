@@ -3,18 +3,18 @@ import {
   blue,
   white,
   yellow,
-} from'../../public/assets/images/index';
+} from'../assets/images/index';
 // inside another .js file
 
-import { 
+import {
   highlightFirstmv,
   highlightFourthmv,
   highlightThirdmv,
-} from "../../public/assets/videos/index"; // the path seems correct based on the provided structure
- 
+} from "../assets/videos/index"; // the path seems correct based on the provided structure
+
 import {
   highlightsecondmv,
- }  from "../../public/sec/index"; // Corrected import path for highlightsecondmv
+ }  from "../assets/sec/index"; // Corrected import path for highlightsecondmv
 
 export const navLists = ["Store", "Mac", "iPhone", "Support"];
 
